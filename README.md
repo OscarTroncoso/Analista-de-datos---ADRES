@@ -24,3 +24,6 @@ Dentro de este repositorio encontrá:
   - Municipios_clean.csv: Los datos (tabla) de los municipios una vez realizados todos los queries pertinentes que facilitaran su manipulación.
   - Prestadores_clean.csv: Los datos (tabla) de los prestadores una vez realizados todos los queries pertinentes que facilitaran su manipulación.
   - Estadisticos R.xlsx: Los datos (tabla) de los resultados estadísticos de las pruebas estadísticas aplicadas a los datos.
+- **Archivos PDF y Word:**
+  - Prueba técnica analista de datos.pdf: Instructivo bajo el cual se debia desarrollar la actividad.
+  - Análisis Integral de Datos Municipales y de Prestadores.docx: Analisis que reune los factores más importantes del estudio presentando los resultados y las implicaciones de los mismos.  
