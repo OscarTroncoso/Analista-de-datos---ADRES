@@ -1,1 +1,26 @@
 # Analista-de-datos---ADRES
+Dentro de este repositorio encontrá:
+- **Gráficas resultantes del análisis de los datos:**
+  - Municipios:
+    - Distribución de la población en los municipios.
+    - Distribución de la superficie en los municipios.
+    - Distribución del índice de la ruralidad.
+  - Prestadores:
+    - Cantidad de prestadores por clasificación.
+    - Distribución de entidades económicas solidarias (ESE).
+    - Cantidad de prestadores por departamento.
+  - Analisis conjunto de municipios y prestadores:
+    - Número de prestadores por población del municipio.
+- **Consultas SQL y R:**
+  - Municipios_SQL.sql: Queries asociados a la tabla de Municipios realizados en *SQLite3*.
+  - Prestadores_SQL.sql: Queries asociados a la tabla de Prestadores realizados en *SQLite3*.
+  - Municipios y prestadores.R: Desarrollo completo de la actividad en donde encontrara desde la creación de la base de datos llamando las tablas, hasta su manipulación para poder entrar a desarrollar la parte estadística y sus conclusiones. 
+- **Bases de datos:** Estos archivos se encontrarán dentro del archivo zip llamado *Municipios y prestadores - DB.zip*
+  - Municipios y prestadores.db: Esta fue el resultado de los queries realizados en *SQLite3* proveniente de los archivos aquí adjuntos.
+  - Municipios y prestadores.sqlite: Esta fue el resultado de los queries realizados dentro de R para el desarrollo de la actividad.
+- **Archivos de excel:**
+  - Municipios_raw.csv: Los datos (tabla) de los municipios inicialmente entregada para el desarrollo de la actividad.
+  - Prestadores_raw.csv: Los datos (tabla) de los prestadores inicialmente entregada para el desarrollo de la actividad.
+  - Municipios_clean.csv: Los datos (tabla) de los municipios una vez realizados todos los queries pertinentes que facilitaran su manipulación.
+  - Prestadores_clean.csv: Los datos (tabla) de los prestadores una vez realizados todos los queries pertinentes que facilitaran su manipulación.
+  - Estadisticos R.xlsx: Los datos (tabla) de los resultados estadísticos de las pruebas estadísticas aplicadas a los datos.
